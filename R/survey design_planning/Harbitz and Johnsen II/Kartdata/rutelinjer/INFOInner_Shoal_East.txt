@@ -1,0 +1,19 @@
+
+ Sat May 02 22:14:43 2015
+ Stratum (Toktområde)     Inner_Shoal_East
+ Speed and time available 10 knots      8 h
+ Stratum area (n.mi2)     351.8665
+ Sailing distance (n.mi)  83.9404
+ Survey coverage          4.474887
+  
+ Transect positions      
+  
+    LonDeg LonMin LatDeg LatMin
+1      4  32.85     56  44.51
+2      4  30.36     56  46.09
+3      4  21.77     56  35.01
+4      4  13.19     56  48.43
+5      4   4.60     56  34.87
+6      3  56.01     56  49.42
+7      3  47.43     56  34.73
+8      3  40.48     56  44.35

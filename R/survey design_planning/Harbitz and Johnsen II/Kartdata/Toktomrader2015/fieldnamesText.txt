@@ -1,0 +1,11 @@
+1	Albjoern_Ling
+2	Vikingbanken
+3	Engelsk_Klondyke
+4	Inner_Shoal_East
+5	Inner_Shoal_West
+6	Nordgyden
+7	Ostbanken
+8	Outer_Shoal
+9	Vestbanken_North
+10 	Vestbanken_SouthWest                                
+11 	Vestbanken_SouthEast                                

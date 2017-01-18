@@ -1,0 +1,39 @@
+
+ Tue Apr 28 21:24:03 2015
+ Stratum (Toktområde)     Vestbanken_SouthWest
+ Speed and time available 10 knots     24 h
+ Stratum area (n.mi2)     417.5509
+ Sailing distance (n.mi)  254.1819
+ Survey coverage          12.43913
+  
+ Transect positions      
+  
+     LonDeg LonMin LatDeg LatMin
+29      5 17.972     57 17.140
+28      5  0.872     57 21.383
+22      5  0.073     57 17.405
+23      5 37.920     57  8.014
+19      5 34.172     57  4.767
+18      4 59.795     57 13.297
+14      4 57.923     57  9.585
+15      5 32.062     57  1.114
+10      5 29.722     56 57.517
+9       4 55.968     57  5.893
+5       4 53.435     57  2.344
+6       5 24.452     56 54.648
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
